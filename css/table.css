@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
+body{ background-color:lemonchiffon; }
+p{
+     font-size: 50px;
+     font-family: "Kablammo", system-ui;
+     text-align: center;
+     color: royalblue;
+}
+table{
+	border: double 5px green;
+	width: 50%;
+	font-size: 24px;
+}
+th,td{
+	border: solid 2px salmon;
+	width: 25%;
+}

@@ -1,0 +1,22 @@
+body{
+	 background-color: lightgoldenrodyellow;
+}
+p{
+	font-size: 50px;
+}
+.p{
+	background: linear-gradient(blue,purple,pink);
+	color: #fff;
+	text-align: center;
+}
+.p2{
+	font-family: Times, "Times New Roman", Georgi;
+}
+.p3{
+	font-family: Verdana, Arial, Helvetica,sans-serif;
+}
+.p4{
+	font-family: "Lucida Conose", Console", Courier, monospace;
+}
+.p5{
+	font-family: ;

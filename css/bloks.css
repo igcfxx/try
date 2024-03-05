@@ -1,0 +1,40 @@
+body{
+	background-color: yellow;
+}
+p{
+	font-size: 50px;
+	background-color: green;
+}
+.p1{
+	display: inline-block;
+}
+.s1{
+	border: dotted 2px red;
+	display: block;
+}
+#first{
+	width: 50;
+	height: 500px;
+	background-color: blue;
+	border: ridge 20px violet;
+	font-size: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#second{
+	width: 700px;
+	height: 700px;
+	background-color: violet;
+	border: groove 20px blue;
+	font-size: center;
+	padding: 50px;
+}
+#third,#forgt{
+	width: 800px;
+	height: 200px;
+	border: dasher 10px pink;
+	margin: 20px;
+	background-color: blue;
+	
+}

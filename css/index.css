@@ -1,0 +1,40 @@
+body{
+	background-color: yellow;
+}
+header{
+	background-color: black;
+	height: 250px;
+}
+h1{
+	color: red;
+	text-align: center;
+}
+nav,aside{
+	width: 20%;
+	float: left;
+}
+main{
+	background-color: grey;
+	width: 60%;
+	float: left;
+}
+h2{
+	text-align: center;
+}
+footer{
+	height: 200px;
+	clear: both;
+	background-color: lemonchiffon;
+}
+article{
+	border: dashed 2px red;
+	margin: 10px;
+	text-align: justify;
+	display: inline-block;
+	width: 30%;
+}
+main{
+	background-color: grey;
+	width: 60%;
+	float: left;
+}
